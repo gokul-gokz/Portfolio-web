@@ -9,6 +9,10 @@
     box-sizing: border-box;
 }
 
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
 .grid {
     margin: 0 auto;
     max-width: 1200px;
@@ -74,3 +78,11 @@
 		display: none;
 	}
 }
+.heading {
+	text-align: center;
+	}
+.contact{ 
+       position: fixed;     
+       text-align: left;    
+       bottom: 0px; 
+       width: 100%;
